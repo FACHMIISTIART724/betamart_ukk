@@ -1,0 +1,11 @@
+D:\ukk\oop\Crud_Betamart_Fachmi\obj\Debug\Crud_Betamart_Fachmi.Form1.resources
+D:\ukk\oop\Crud_Betamart_Fachmi\obj\Debug\Crud_Betamart_Fachmi.Properties.Resources.resources
+D:\ukk\oop\Crud_Betamart_Fachmi\obj\Debug\Crud_Betamart_Fachmi.csproj.GenerateResource.cache
+D:\ukk\oop\Crud_Betamart_Fachmi\obj\Debug\Crud_Betamart_Fachmi.csproj.CoreCompileInputs.cache
+D:\ukk\oop\Crud_Betamart_Fachmi\bin\Debug\MyDb.accdb
+D:\ukk\oop\Crud_Betamart_Fachmi\bin\Debug\Crud_Betamart_Fachmi.exe.config
+D:\ukk\oop\Crud_Betamart_Fachmi\bin\Debug\Crud_Betamart_Fachmi.exe
+D:\ukk\oop\Crud_Betamart_Fachmi\bin\Debug\Crud_Betamart_Fachmi.pdb
+D:\ukk\oop\Crud_Betamart_Fachmi\obj\Debug\Crud_Betamart_Fachmi.exe
+D:\ukk\oop\Crud_Betamart_Fachmi\obj\Debug\Crud_Betamart_Fachmi.pdb
+D:\ukk\oop\Crud_Betamart_Fachmi\obj\Debug\Crud_Betamart_Fachmi.csprojAssemblyReference.cache
